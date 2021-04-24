@@ -97,13 +97,12 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-##theme: landscape
-theme: Ayer
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
+  type: git
   repo:
-    github: https://github.com/ForN0/ForN0.github.io.git
+    github: https://github.com/ForN0/ForN0.github.io.git 
   branch: main
